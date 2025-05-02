@@ -60,26 +60,4 @@ f5-tts_infer-gradio --port 7860 --host 0.0.0.0
 3. Recombine frames into video and overlay cloned audio.
 
 ---
-<h2>🎥 Demo Videos</h2>
-
-<table>
-  <tr>
-    <td align="center"><b>Wav2Lip Output</b></td>
-    <td align="center"><b>GFPGAN Output</b></td>
-  </tr>
-  <tr>
-    <td>
-      <video width="320" height="240" controls>
-        <source src="https://github.com/lkwee/ai-deepfake-exercise/tree/main/Videos/wav2lip_output.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="320" height="240" controls>
-        <source src="https://github.com/lkwee/ai-deepfake-exercise/tree/main/Videos/gfpgan_output.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-  </tr>
-</table>
 
