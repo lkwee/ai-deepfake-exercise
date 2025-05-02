@@ -22,7 +22,7 @@ All components run on **local machines (CPU-compatible)**. No training is needed
 ---
 
 #### 1. [Resemble-Enhance](https://github.com/resemble-ai/resemble-enhance)
-🔊 For **enhancing voice quality** after cloning.
+🔊 For **enhancing voice quality** before cloning.
 
 - Works better using **Docker** on Windows.
 - Helpful forks and issues:
@@ -70,13 +70,13 @@ f5-tts_infer-gradio --port 7860 --host 0.0.0.0
   <tr>
     <td>
       <video width="320" height="240" controls>
-        <source src="Videos/wav2lip_output.mp4" type="video/mp4">
+        <source src="https://github.com/lkwee/ai-deepfake-exercise/tree/main/Videos/wav2lip_output.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="Videos/gfpgan_output.mp4" type="video/mp4">
+        <source src="https://github.com/lkwee/ai-deepfake-exercise/tree/main/Videos/gfpgan_output.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
